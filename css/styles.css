@@ -3,8 +3,18 @@ body{
   font-size: 13pt;
 }
 h1, h2,h3,h4,h5,h6{
-  color: #4F4F4F
+  color: #4F4F4F;
 }
 li{
   padding-bottom: 0.3em;
+}
+a{
+  color: #4F4F4F;
+  font-weight: bold;
+  text-decoration: none;
+}
+a:hover{
+  color: #4F4F4F;
+  font-weight: bold;
+  text-decoration: underline;
 }
