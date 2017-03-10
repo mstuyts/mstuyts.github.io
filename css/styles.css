@@ -26,7 +26,6 @@ a:hover{
 .spacer{height: 80px;}
 .content{
   padding: 2em;
-  margin: 2em;
   background-color: white;
   border: solid #333 1px;
   border-radius: 0.5em;
@@ -49,3 +48,4 @@ a:hover{
    padding-top: 2pt;
    text-align: center;
  }
+.maincontainer{  margin: 2em;}
