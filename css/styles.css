@@ -19,6 +19,11 @@ a:hover{
   font-weight: bold;
   text-decoration: underline;
 }
+ .navbar-brand{
+   font-size: 200%;
+   font-weight: bold;
+   cursor: pointer;
+ }
 .spacer{height: 80px;}
 .content{
   padding: 2em;
@@ -26,3 +31,20 @@ a:hover{
   border: solid #4F4F4F 1px;
   border-radius: 1em;
 }
+ .footer{
+    float: left;
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   
+ }
+ .copyright{
+   font-size: 8pt;
+   width: 100%;
+   height: 14pt;
+   background-color: black;
+   color: white;
+   padding-left: 20px;
+   padding-top: 2pt;
+ }
