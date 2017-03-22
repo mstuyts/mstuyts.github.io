@@ -25,6 +25,7 @@ a:hover{
  }
 .spacer{height: 80px;}
 .content{
+  margin: 1em;
   background-color: white;
   border-top: solid #333 1px;
   border-bottom: solid #333 1px;
