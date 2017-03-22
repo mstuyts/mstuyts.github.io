@@ -19,6 +19,10 @@ a:hover{
   font-weight: bold;
   text-decoration: underline;
 }
+.container-full {
+  margin: 0 auto;
+  width: 100%;
+}
  .navbar-brand{
    font-size: 150% !important;
    font-weight: bold;
