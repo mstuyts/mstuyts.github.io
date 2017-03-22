@@ -27,8 +27,9 @@ a:hover{
 .content{
   padding: 2em;
   background-color: white;
-  border: solid #333 1px;
-  border-radius: 0.5em;
+  border-top: solid #333 1px;
+  border-bottom: solid #333 1px;
+
 }
  .footer{
    float: left;
@@ -48,4 +49,4 @@ a:hover{
    padding-top: 2pt;
    text-align: center;
  }
-.maincontainer{  margin: 2em;}
+.maincontainer{  margin: 2em 0;}
